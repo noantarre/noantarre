@@ -4,7 +4,46 @@
 
 🍳 Pronomes ele/dele
 
-⭕ Java, JavaScript, Mysql, Nodejs, php, python, ruby, c.
+⭕ Desenvolvedor Full-Stack Júnior
+
+→ Minhas maiores habilidades:
+● Implementação de layouts.
+● Design responsivel
+● Teste e depuração. 
+
+
+→ Meus objetivos:
+● Engajar em soluções inovadoras.
+● Levar a essência da programação aos profissionais de todas as áreas.
+● Documentar aprendizado.
+
+→ Minha história:
+Iniciei Iniciação científico na Ufpe, estudei no Ifpe, Técnico de informática para internet, aprendi as seguintes linguagens:
+• JavaScript
+• Python
+• Java
+• Html
+• CSS
+• Especialista em java
+• Especialista em Arquitetura de software
+• Full-Stack em Angular e Spring
+• Web Design - UX & UI
+
+Outros pontos de programação
+• Metodologia Agéis
+• Lógica de programação
+• Conceito de MVC
+• Testes de software
+
+Além disso faço faculdade de Análise e Desenvolvimento de Sistemas- Faculdade Descomplica
+
+Na Saber Tecnologias Educacionais e Sociais na Ufpe, trabalhei como pesquisador e desenvolvedor júnior, desenvolvendo um plugin para o moodle, em php.
+
+Fora do meu tempo de trabalho, dedico meu tempo à estudos para melhorar meu desempenho em programação e aprender tecnologias novas e linguagens também.
+
+
+Entre em contato:
+noantarreempresas@gmail.com
 
 <div align="center">
   <a href="https://github.com/noantarre">
