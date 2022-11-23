@@ -1,10 +1,10 @@
 🤯 Meu Nome é Noan Tarré
 
-🍕 Desenvolvedor
+🍕 Desenvolvedor Javascript | React | Html | Css
 
 🍳 Pronomes ele/dele
 
-⭕ Desenvolvedor Full-Stack Júnior
+⭕ Desenvolvedor Front-end
 
 → Minhas maiores habilidades:
 ● Implementação de layouts.
@@ -26,8 +26,7 @@ Iniciei Iniciação científico na Ufpe, estudei no Ifpe, Técnico de informáti
 • CSS
 • Especialista em java
 • Especialista em Arquitetura de software
-• Full-Stack em Angular e Spring
-• Web Design - UX & UI
+• Front-end Alura
 
 Outros pontos de programação
 • Metodologia Agéis
