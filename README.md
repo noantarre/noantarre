@@ -4,7 +4,7 @@
 
 🍳 Pronomes ele/dele
 
-⭕ Desenvolvedor Front-end
+⭕ Desenvolvedor
 
 → Minhas maiores habilidades:
 ● Implementação de layouts.
