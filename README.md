@@ -43,4 +43,5 @@ I'm always open to collaborations, sharing experiences, and new challenges! 😄
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=noantarre&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
