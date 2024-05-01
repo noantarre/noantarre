@@ -1,48 +1,30 @@
-🤯 Meu Nome é Noan Tarré
+# Hello there! I'm Noan Tarré 👋
 
-🍕 Desenvolvedor Javascript | React | Html | Css
+🍕 JavaScript Developer | React | HTML | CSS
 
-🍳 Pronomes ele/dele
+🍳 Pronouns: he/him
 
-⭕ Desenvolvedor
+## About Me
 
-→ Minhas maiores habilidades:
-● Implementação de layouts.
-● Design responsivel
-● Teste e depuração. 
+I'm a technology enthusiast, always eager to innovate and learn new skills. Here are some details about my journey:
 
+- 🎓 I'm currently studying Analysis and Systems Development at Faculdade Descomplica.
+- 🌱 Currently, I'm focused on enhancing my skills in web development, especially in React.
+- 💼 I've worked as a junior researcher and developer at Saber Tecnologias Educacionais e Sociais at UFPE, where I contributed to developing a Moodle plugin in PHP.
+- 👨‍💻 My skills include layout implementation, responsive design, testing, and debugging.
+- 🎯 My goals are to engage in innovative solutions, share knowledge, and document my learning journey.
 
-→ Meus objetivos:
-● Engajar em soluções inovadoras.
-● Levar a essência da programação aos profissionais de todas as áreas.
-● Documentar aprendizado.
+## Experience and Education
 
-→ Minha história:
-Iniciei Iniciação científico na Ufpe, estudei no Ifpe, Técnico de informática para internet, aprendi as seguintes linguagens:
-• JavaScript
-• Python
-• Java
-• Html
-• CSS
-• Especialista em java
-• Especialista em Arquitetura de software
-• Front-end Alura
+- 🏫 I started my academic journey at UFPE with scientific initiation and studied at IFPE, where I graduated as a Technician in Internet Informatics.
+- 📚 I've learned various programming languages, including JavaScript, Python, Java, HTML, and CSS. I'm also a Java and Software Architecture specialist and completed the Front-End course at Alura.
+- ⚙️ In addition to languages, I have knowledge of agile methodologies, programming logic, MVC concepts, and software testing.
 
-Outros pontos de programação
-• Metodologia Agéis
-• Lógica de programação
-• Conceito de MVC
-• Testes de software
+## Get in Touch
 
-Além disso faço faculdade de Análise e Desenvolvimento de Sistemas- Faculdade Descomplica
+You can reach me via email: noantarreempresas@gmail.com
 
-Na Saber Tecnologias Educacionais e Sociais na Ufpe, trabalhei como pesquisador e desenvolvedor júnior, desenvolvendo um plugin para o moodle, em php.
-
-Fora do meu tempo de trabalho, dedico meu tempo à estudos para melhorar meu desempenho em programação e aprender tecnologias novas e linguagens também.
-
-
-Entre em contato:
-noantarreempresas@gmail.com
+I'm always open to collaborations, sharing experiences, and new challenges! 😄
 
 <div>
 <a href="https://www.instagram.com/tarrenoan/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
