@@ -50,7 +50,7 @@ noantarreempresas@gmail.com
 <a href="https://www.linkedin.com/in/noan-tarr%C3%A9-b6b59715a/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="40" height="40"/> <img loading="lazy" src="https://hermes.dio.me/articles/cover/b429cfda-d8f4-4583-a5e7-8e1a2c323dd1.jpg" width="40" height="40"/>
+<img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="40" height="40"/> <img loading="lazy" src="https://t3.ftcdn.net/jpg/03/21/24/30/360_F_321243084_GstfWflk1eTLlzUdRZ5mjoP5IG1iCc8J.jpg" width="40" height="40"/>
 <img loading="lazy" src="https://hermes.dio.me/articles/cover/1ee9c50a-fccd-4ec8-b57a-6a592a157a6d.png" width="40" height="40"/>
 <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="40" height="40"/>
 
