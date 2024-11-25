@@ -8,7 +8,7 @@
 
 I'm a technology enthusiast, always eager to innovate and learn new skills. Here are some details about my journey:
 
-- 🎓 I'm currently studying Analysis and Systems Development at Faculdade Descomplica.
+- 🎓 I'm currently studying Analysis and Systems Development at Universidade Tiradentes.
 - 🌱 Currently, I'm focused on enhancing my skills in web development, especially in React.
 - 💼 I've worked as a junior researcher and developer at Saber Tecnologias Educacionais e Sociais at UFPE, where I contributed to developing a Moodle plugin in PHP.
 - 👨‍💻 My skills include layout implementation, responsive design, testing, and debugging.
